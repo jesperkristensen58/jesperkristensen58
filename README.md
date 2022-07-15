@@ -10,7 +10,7 @@ In my past life I worked in finance, in web2, and in industry Research.
 I hold a PhD in Physics from Cornell University with a minor in Computer Science and I love to learn, teach, and grow!
 
 
-### Stack Overflow & Stack Exchange Stats
+### Stack Overflow Stats
 
 
 <a href="https://stackoverflow.com/users/3462321/jesperk-eth"><img src="https://stackoverflow.com/users/flair/3462321.png" width="208" height="58" alt="profile for Jesper Kristensen on Stack Overflow, a network of free, community-driven Q&amp;A sites" title="profile for Jesper Kristensen on Stack Overflow, a network of free, community-driven Q&amp;A sites" /></a>
