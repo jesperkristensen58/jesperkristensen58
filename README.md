@@ -13,4 +13,4 @@ I hold a PhD in Physics from Cornell University with a minor in Computer Science
 ### Stack Overflow & Stack Exchange Stats
 
 
-<a href="https://stackoverflow.com/users/3462321/jesperk-eth"><img src="https://stackexchange.com/users/flair/3462321.png" width="208" height="58" alt="profile for Jesper Kristensen on Stack Overflow, a network of free, community-driven Q&amp;A sites" title="profile for Jesper Kristensen on Stack Overflow, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackoverflow.com/users/3462321/jesperk-eth"><img src="https://stackoverflow.com/users/flair/3462321.png" width="208" height="58" alt="profile for Jesper Kristensen on Stack Overflow, a network of free, community-driven Q&amp;A sites" title="profile for Jesper Kristensen on Stack Overflow, a network of free, community-driven Q&amp;A sites" /></a>
