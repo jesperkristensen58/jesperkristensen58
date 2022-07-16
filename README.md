@@ -8,6 +8,7 @@ I started my career in Research and Development, moved to Tech (the old Web2) fo
 Besides this, I have worked in the Web3 space for years and am a strong believer in its capabilities.
 
 I hold a PhD in Physics from Cornell University with a minor in Computer Science and I love to learn, teach, and grow!
+
 In my spare time I read and take long walks.
 
 ### Stack Overflow Stats
