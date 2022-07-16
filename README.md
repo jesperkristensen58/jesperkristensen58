@@ -4,11 +4,11 @@
 [![Jesper Kristensen Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cryptojesperk)
 [![Jesper Kristensen StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3462321/jesperk-eth)
 
-I have worked in the Web3 space for years and am a strong believer in its capabilities.
-In my past life I worked in finance, in web2, and in industry Research.
+I started my career in Research and Development, moved to Tech (the old Web2) for a while, and then worked as a Quant in finance.
+Besides this, I have worked in the Web3 space for years and am a strong believer in its capabilities.
 
 I hold a PhD in Physics from Cornell University with a minor in Computer Science and I love to learn, teach, and grow!
-
+In my spare time I read and take long walks.
 
 ### Stack Overflow Stats
 
