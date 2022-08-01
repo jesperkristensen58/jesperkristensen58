@@ -10,7 +10,7 @@
   
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
 </div>
 
 I started my career in Research and Development, moved to Tech (the old Web2) for a while, and then worked as a Quant in finance.
