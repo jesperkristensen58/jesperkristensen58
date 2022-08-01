@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jesperkristensen58&style=flat-square&color=blue" alt=""/>
   
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Jesper!
+  <font size="4"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Jesper! </font>
   
 </div>
 <div align="center">
