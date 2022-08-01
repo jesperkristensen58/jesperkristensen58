@@ -25,7 +25,7 @@ I hold a PhD in Physics from Cornell University with a minor in Computer Science
 
 In my spare time I read and take long walks.
 
-Some recent books I read:
+📖 Some recent books I read:
 
  - Security Tokens and Stablecoins Quick Start Guide: Learn how to build STO and stablecoin decentralized applications
  
