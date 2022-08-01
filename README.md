@@ -14,6 +14,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
 </div>
 
+---
+
 I started my career in Research and Development, moved to Tech (the old Web2) for a while, and then worked as a Quant in finance.
 Besides this, I have worked in the Web3 space for years and am a strong believer in its capabilities.
 
