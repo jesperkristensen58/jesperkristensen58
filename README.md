@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="./deskhead.gif" width="200"/>
-  <h2> Hi there 👋, I'm Jesper Kristensen! </h2>
+  <h2> Hi there 👋, I'm Jesper! </h2>
 </div>
     
 [![Jesper Kristensen Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jespertoftkristensen/)
