@@ -27,13 +27,19 @@ In my spare time I read and take long walks.
 
 Some recent books I read:
 
-    - Security Tokens and Stablecoins Quick Start Guide: Learn how to build STO and stablecoin decentralized applications
-    - The Metaverse: And How it Will Revolutionize Everything
-    - Algorithms to Live By: The Computer Science of Human Decisions
-    - The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded
-    - Options as a Strategic Investment: Fifth Edition
-    - Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition
-    - The Historical Atlas of New York City, Third Edition: A Visual Celebration of 400 Years of New York City's History
+ - Security Tokens and Stablecoins Quick Start Guide: Learn how to build STO and stablecoin decentralized applications
+ 
+ - The Metaverse: And How it Will Revolutionize Everything
+ 
+ - Algorithms to Live By: The Computer Science of Human Decisions
+ 
+ - The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded
+
+ - Options as a Strategic Investment: Fifth Edition
+ 
+ - Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition
+ 
+ - The Historical Atlas of New York City, Third Edition: A Visual Celebration of 400 Years of New York City's History
 
 and more.
 
