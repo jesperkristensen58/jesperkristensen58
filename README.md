@@ -70,6 +70,4 @@ and more.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesperkristensen58&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Stack Overflow Stats
-
 <a href="https://stackoverflow.com/users/3462321/jesperk-eth"><img src="https://stackoverflow.com/users/flair/3462321.png" width="208" height="58" alt="profile for Jesper Kristensen on Stack Overflow, a network of free, community-driven Q&amp;A sites" title="profile for Jesper Kristensen on Stack Overflow, a network of free, community-driven Q&amp;A sites" /></a>
