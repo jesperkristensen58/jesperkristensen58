@@ -19,8 +19,8 @@
 
 ### 👨‍💻 About Me :
 
-I started my career in Research and Development, moved to Tech (the old Web2) for a while, and then worked as a Quant in finance.
-Besides this, I have worked in the Web3 space for years and am a strong believer in its capabilities.
+I started my career in Research and Development, moved to Tech (the good 'ol Web2) for a while, and then worked as a Quant in finance.
+Besides this, I have worked in the Web3 space for over a year and a half and am a strong believer in its capabilities. I am an ecosystem maxi.
 
 I hold a PhD in Physics from Cornell University with a minor in Computer Science and I love to learn, teach, and grow!
 
