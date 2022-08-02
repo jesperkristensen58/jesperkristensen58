@@ -19,10 +19,17 @@
 
 ### 👨‍💻 About Me :
 
-I started my career in Research and Development, moved to Tech (the good 'ol Web2) for a while, and then worked as a Quant in finance.
-Besides this, I have worked in the Web3 space for over a year and a half and am a strong believer in its capabilities. I am an ecosystem maxi.
+I spent the first many years of my life glued to the Computer. This was during the early parts of the internet and I was extremely fascinated by it. My parents had a close friend who was a Software Engineer, so I learned a lot from him.
 
-I hold a PhD in Physics from Cornell University with a minor in Computer Science and I love to learn, teach, and grow!
+I built my own computers, assembling them from pieces I bought separately to get the best performance! I used them to program, nothing crazy but I was big into building websites at the time.
+
+I also played *a lot* of video games. Starcraft, Counter-Strike 1.5 (I played semi-professional for a few short years), Wacky Wheels, Red Alert, Warcraft, and so on. I would attend local area network (LAN) events, where I'd bring my computer and a sleeping bag. Those were the days! I'd go hang out in Internet Cafe's which were becoming quite the phenomenon at the time. Pay hourly to play games with folks in the room and/or online, pick your seat, and play till you ran out of money.
+
+Then I went to college and ended up completing a PhD in Applied Physics from Cornell with a Minor in Computer Science.
+
+I started my career in Research and Development, moved to Tech (the good 'ol Web2) for a while working as a full-stack engineer, and then worked as a Quant in finance. After that, I took on a lot of responsibility by creating and leading the Research division at Advanced Blockchain as Head of Research. This was a more hands-off role as it relates to development, but it was fantastic in terms of getting experience leading and also learning about the Web3 space overall and its design decisions. I wrote a book during this time and also multiple award-winning articles.
+
+Besides this, I have worked in the Web3 space for over a year and a half and am a strong believer in its capabilities. I am an ecosystem maxi.
 
 In my spare time I read and take long walks.
 
