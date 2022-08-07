@@ -55,6 +55,9 @@ In my spare time, my mind likes to think about puzzles and solve problems, so I 
 
 and more.
 
+👀 I’m looking to collaborate on projects in Web3, DeFi, and FinTech.
+📫 jespertoftkristensen@gmail.com
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
