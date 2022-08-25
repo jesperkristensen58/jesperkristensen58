@@ -19,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻👷 About Me :
 
 I spent the first many years of my life glued to the Computer. This was during the early parts of the internet and I was extremely fascinated by it. My parents had a close friend who was a Software Engineer (woah! that was crazy to be in those days, I wanted to be like him!), so I learned a lot from him.
 
