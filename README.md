@@ -39,6 +39,8 @@ I have worked full-time in the Web3 space for over a year and a half (I invested
 
 In my spare time, my mind likes to think about puzzles and solve problems, so I read to learn new things, and take long walks.
 
+🖊 <a href="https://www.amazon.co.uk/Automated-Market-Makers-Decentralized-Cryptocurrency/dp/1484286154/ref=sr_1_3?crid=84BHWT0VXL69&keywords=Automated+Market+Makers&qid=1661956985&sprefix=automated+market+maker%2Caps%2C186&sr=8-3&sa-no-redirect=1&pldnSite=1">I wrote a book about AMMs too</a>.
+
 📖 Some recent books I read (in no particular order):
 
  - Security Tokens and Stablecoins Quick Start Guide: Learn how to build STO and stablecoin decentralized applications
