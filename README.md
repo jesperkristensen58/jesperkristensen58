@@ -5,7 +5,9 @@
   [![Jesper Kristensen GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://jesperkristensen58.github.io/)
   [![Jesper Kristensen Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jespertoftkristensen/)
 <br>
-[![Jesper Kristensen Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cryptojesperk)
+[![Jesper Kristensen Twitter](https://img.shields.io/twitter/follow/cryptojesperk?style=plastic&label=followers&logo=twitter&color=%23007ec6)](https://twitter.com/intent/follow?screen_name=cryptojesperk)
+  
+  
 [![Jesper Kristensen StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3462321/jesperk-eth)
 [![Jesper Kristensen StackOverflow](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXMTxzESo0no8oHdMWQ-1lQ)
 
