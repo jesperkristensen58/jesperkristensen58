@@ -9,7 +9,7 @@
 [![Jesper Kristensen StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3462321/jesperk-eth)
 [![Jesper Kristensen StackOverflow](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXMTxzESo0no8oHdMWQ-1lQ)
   
-  <div style="margin-bottom:0px">
+  <div style="margin-bottom:0px;margin-top:0px">
 
 [![Jesper Kristensen Twitter](https://img.shields.io/twitter/follow/cryptojesperk?style=plastic&label=followers&logo=twitter&color=%23007ec6)](https://twitter.com/intent/follow?screen_name=cryptojesperk)
   
