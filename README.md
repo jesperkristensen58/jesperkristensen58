@@ -11,14 +11,13 @@
 [![Jesper Kristensen StackOverflow](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXMTxzESo0no8oHdMWQ-1lQ)
 
 <img src="https://komarev.com/ghpvc/?username=jesperkristensen58&style=flat-square&color=blue" alt=""/>
-  
+  [![Jesper Kristensen Twitter](https://img.shields.io/twitter/follow/cryptojesperk?style=plastic&label=followers&logo=twitter&color=%23007ec6)](https://twitter.com/intent/follow?screen_name=cryptojesperk)
   <h1>
   hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Jesper!
   </h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="426" height="240"/>
-[![Jesper Kristensen Twitter](https://img.shields.io/twitter/follow/cryptojesperk?style=plastic&label=followers&logo=twitter&color=%23007ec6)](https://twitter.com/intent/follow?screen_name=cryptojesperk)
 </div>
 
 ---
