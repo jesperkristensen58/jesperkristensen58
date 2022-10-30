@@ -10,6 +10,7 @@
 [![Jesper Kristensen StackOverflow](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXMTxzESo0no8oHdMWQ-1lQ)
   
   <div>
+
 [![Jesper Kristensen Twitter](https://img.shields.io/twitter/follow/cryptojesperk?style=plastic&label=followers&logo=twitter&color=%23007ec6)](https://twitter.com/intent/follow?screen_name=cryptojesperk)
   
 <img src="https://komarev.com/ghpvc/?username=jesperkristensen58&style=flat-square&color=blue" alt=""/>
