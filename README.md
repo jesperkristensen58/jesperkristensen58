@@ -5,7 +5,6 @@
   [![Jesper Kristensen GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://jesperkristensen58.github.io/)
   [![Jesper Kristensen Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jespertoftkristensen/)
 <br>
-[![Jesper Kristensen Twitter](https://img.shields.io/twitter/follow/cryptojesperk?style=plastic&label=followers&logo=twitter&color=%23007ec6)](https://twitter.com/intent/follow?screen_name=cryptojesperk)
   
   
 [![Jesper Kristensen StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3462321/jesperk-eth)
@@ -19,6 +18,7 @@
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="426" height="240"/>
+[![Jesper Kristensen Twitter](https://img.shields.io/twitter/follow/cryptojesperk?style=plastic&label=followers&logo=twitter&color=%23007ec6)](https://twitter.com/intent/follow?screen_name=cryptojesperk)
 </div>
 
 ---
