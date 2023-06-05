@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="./deskhead.gif" width="180" style="border-radius: 20%;"/>
 <div>
-  <h4>Get your copy today!</h4> Learn DeFi from first principles:<br /><a href="https://defibooks.org/">https://defibooks.org/</a>
+  Learn DeFi from first principles:<br /><h4>Get your copy today!</h4> <a href="https://defibooks.org/">https://defibooks.org/</a>
   
   </div>
  <br />
