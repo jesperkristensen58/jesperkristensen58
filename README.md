@@ -3,7 +3,7 @@
 <div>
   <br />
   
-  <h3>Learn DeFi from first principles:<br /><a href="https://defibooks.org/">https://defibooks.org/</a></h3>
+  <h4>Learn DeFi from first principles:<br /><a href="https://defibooks.org/">https://defibooks.org/</a></h4>
   
   </div>
  <br />
