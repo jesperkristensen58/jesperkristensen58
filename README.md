@@ -1,4 +1,5 @@
-<link rel=“stylesheet” type=“text/css” href=“style.css”>
+<link rel="stylesheet" type="text/css" href="style.css">
+
 <div id="header" align="center">
   <img src="./deskhead.gif" width="180" style="border-radius: 20%;"/>
 <div>
