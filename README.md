@@ -1,12 +1,9 @@
 <div id="header" align="center">
   <img src="./deskhead.gif" width="180" style="border-radius: 20%;"/>
 <div>
-  Learn DeFi from first principles:<br /><div><h4>Get your copy today!</h4> <a href="https://defibooks.org/">https://defibooks.org/</a></div>
-  
+  <div>Learn DeFi from first principles: <h4>Get your copy today!</h4> <a href="https://defibooks.org/">https://defibooks.org/</a></div>  
   </div>
- <br />
-  <hr />
-  
+
 [![Jesper Kristensen LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/cryptojesperk)
   [![Jesper Kristensen GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://jesperkristensen58.github.io/)
   [![Jesper Kristensen Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jespertoftkristensen/)
