@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./deskhead.gif" width="180" style="border-radius: 25px; border:1px solid black" />
+  <img src="./deskhead.gif" width="180"/>
 <div>
   
   <div>Learn DeFi from first principles:<br /><a href="https://defibooks.org/">https://defibooks.org/</a></div>  
