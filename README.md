@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-  
-<head>
-<link rel="stylesheet" href="./style.css">
-</head>
-
+<link rel=“stylesheet” type=“text/css” href=“style.css”>
 <div id="header" align="center">
   <img src="./deskhead.gif" width="180" style="border-radius: 20%;"/>
 <div>
@@ -112,4 +106,3 @@ and more.
 
 <a href="https://stackoverflow.com/users/3462321/jesperk-eth"><img src="https://stackoverflow.com/users/flair/3462321.png" width="208" height="58" alt="profile for Jesper Kristensen on Stack Overflow, a network of free, community-driven Q&amp;A sites" title="profile for Jesper Kristensen on Stack Overflow, a network of free, community-driven Q&amp;A sites" /></a>
   
-  </html>
