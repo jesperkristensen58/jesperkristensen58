@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="./deskhead.gif" width="180" style="border-radius: 20%;"/>
 <div>
-  <div>Learn DeFi from first principles: <h4>Get your copy today! <a href="https://defibooks.org/">https://defibooks.org/</a></h4></div>  
+  <div>Learn DeFi from first principles: Get your copy today! <a href="https://defibooks.org/">https://defibooks.org/</a></div>  
   </div>
 
 [![Jesper Kristensen LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/cryptojesperk)
