@@ -1,13 +1,8 @@
-<head>
-<link rel="stylesheet" type="text/css" href="style.css">
-</head>
 <div id="header" align="center">
   <img src="./deskhead.gif" width="180" style="border-radius: 20%;"/>
 <div>
   <br />
   Learn DeFi from first principles: <a href="https://defibooks.org/">https://defibooks.org/</a>
-  
-  <button>hello</button>
   
   </div>
  <br />
