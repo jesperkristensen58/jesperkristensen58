@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+
 <div id="header" align="center">
   <img src="./deskhead.gif" width="180" style="border-radius: 20%;"/>
 <div>
