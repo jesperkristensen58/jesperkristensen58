@@ -73,7 +73,7 @@ and more.
 
 📫 jespertoftkristensen ( at ) gmail ( dot ) com
 
-🖊 <a href="https://defibooks.org/">I wrote a book about AMMs</a>.
+🖊 <a href="https://defibooks.org/">I wrote a book on AMMs - a cornerstone of DeFi</a>.
 
 ---
 
