@@ -71,9 +71,9 @@ and more.
 
 👀 I’m looking to collaborate on projects in Web3, DeFi, and FinTech.
 
-📫 jespertoftkristensen@gmail.com
+📫 jespertoftkristensen ( at ) gmail ( dot ) com
 
-🖊 <a href="https://www.amazon.co.uk/Automated-Market-Makers-Decentralized-Cryptocurrency/dp/1484286154/ref=sr_1_3?crid=84BHWT0VXL69&keywords=Automated+Market+Makers&qid=1661956985&sprefix=automated+market+maker%2Caps%2C186&sr=8-3&sa-no-redirect=1&pldnSite=1">I wrote a book about AMMs</a>.
+🖊 <a href="https://defibooks.org/">I wrote a book about AMMs</a>.
 
 ---
 
