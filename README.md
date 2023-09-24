@@ -21,8 +21,10 @@
 <img src="https://komarev.com/ghpvc/?username=jesperkristensen58&style=flat-square&color=blue" alt=""/>
   </div>
 
-<h1 style="display:inline;margin:0;vertical-align:middle;">hi there </h1><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJtZHJhczRodXA1M2x3aGQ5bzNpZmhmaHlhdWJydGRjcnVpczMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" frameBorder="0" /><h1 style="display:inline;margin:0;vertical-align:middle;"> I'm Jesper!</h1>
-  
+
+
+# Hi there <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50"> I'm Jesper
+
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="426" height="240"/>
