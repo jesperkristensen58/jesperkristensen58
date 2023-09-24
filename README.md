@@ -21,9 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=jesperkristensen58&style=flat-square&color=blue" alt=""/>
   </div>
 
-
-
-# Hi there <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50"> I'm Jesper
+# Hi there <img align="center" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="animated" /> I'm Jesper
 
 </div>
 <div align="center">
