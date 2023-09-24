@@ -21,7 +21,8 @@
 <img src="https://komarev.com/ghpvc/?username=jesperkristensen58&style=flat-square&color=blue" alt=""/>
   </div>
 
-# Hi there &mdash; I'm Jesper <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="32"/>
+# Hi there &mdash; I'm Jesper
+<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="64"/>
 
 </div>
 <div align="center">
