@@ -2,7 +2,7 @@
   <img src="./deskhead.gif" width="180"/>
 <div>
   
-  <div>Learn DeFi from first principles:<br /><a href="https://defibooks.org/">https://defibooks.org/</a></div>  
+  <div><h1>Learn DeFi from first principles:<br /><a href="https://defibooks.org/">https://defibooks.org/</a></div>  </h1>
   </div>
   <br />
 
