@@ -22,7 +22,7 @@
   </div>
   
   <h1>
-  hi there <a href="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z"></a> I'm Jesper!
+  hi there <iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="480" height="466" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p> I'm Jesper!
   </h1>
 </div>
 <div align="center">
