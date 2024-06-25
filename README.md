@@ -74,7 +74,7 @@ and more.
 
 📫 jespertoftkristensen ( at ) gmail ( dot ) com
 
-🖊 <a href="https://defibooks.org/">I wrote a book on AMMs - a cornerstone of DeFi</a>.
+🖊 <a href="https://defibooks.org/">I write books on DeFi. Currently I have material on AMMs and Perpetual Derivatives - cornerstones of DeFi</a>.
 
 ---
 
