@@ -7,7 +7,6 @@
   <br />
 
 [![Jesper Kristensen LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/cryptojesperk)
-  [![Jesper Kristensen GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://jesperkristensen58.github.io/)
   [![Jesper Kristensen Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jespertoftkristensen/)
 <br>
   
