@@ -42,13 +42,13 @@ Having missed the opportunity to participate in the early days of the internet d
 
 In my spare time, I enjoy solving puzzles, reading to expand my knowledge, and taking long walks. Recent books I've read include:
 
-'Security Tokens and Stablecoins Quick Start Guide'
-'The Metaverse: And How it Will Revolutionize Everything'
-'Algorithms to Live By: The Computer Science of Human Decisions'
-'The First 90 Days'
-'Options as a Strategic Investment'
-'Option Volatility and Pricing'
-'The Historical Atlas of New York City'
+- 'Security Tokens and Stablecoins Quick Start Guide'
+- 'The Metaverse: And How it Will Revolutionize Everything'
+- 'Algorithms to Live By: The Computer Science of Human Decisions'
+- 'The First 90 Days'
+- 'Options as a Strategic Investment'
+- 'Option Volatility and Pricing'
+- 'The Historical Atlas of New York City'
 
 My journey from a computer-obsessed youth to a Web3 enthusiast and professional exemplifies my enduring passion for technology and its potential to reshape our world.
 
