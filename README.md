@@ -33,41 +33,24 @@
 
 ### 👨‍💻👷 About Me :
 
-I spent the first many years of my life glued to the Computer. This was during the early parts of the internet and I was extremely fascinated by it. My parents had a close friend who was a Software Engineer (woah! that was crazy to be in those days, I wanted to be like him!), so I learned a lot from him.
+From an early age, I was captivated by computers and the burgeoning internet. Inspired by a family friend who was a software engineer—a rare and exciting profession at the time—I delved into the world of technology.
 
-I built my own computers, assembling them from pieces I bought separately to get the best performance! I used them to program, nothing crazy but I was big into building websites at the time.
+My passion led me to build custom computers, optimizing performance by carefully selecting each component. I honed my programming skills, primarily focusing on website development. Gaming also played a significant role in my youth, with titles like Starcraft, Counter-Strike 1.5 (which I played semi-professionally), Red Alert, and Warcraft consuming much of my time. I frequented LAN events and internet cafes, immersing myself in the emerging digital culture.
 
-I also played *a lot* of video games. Starcraft, Counter-Strike 1.5 (I played semi-professional for a few short years), Wacky Wheels, Red Alert, Warcraft, and so on. I would attend local area network (LAN) events, where I'd bring my computer and a sleeping bag. Those were the days! I'd go hang out in Internet Cafe's which were becoming quite the phenomenon at the time. Pay hourly to play games with folks in the room and/or online, pick your seat, and play till you ran out of money.
+My academic journey culminated in a Ph.D. in Applied Physics from Cornell, with a minor in Computer Science. This foundation launched a diverse career spanning Research and Development, full-stack engineering in Web2, and quantitative analysis in finance. As Head of Research at Advanced Blockchain, I led the company's research division, gaining valuable leadership experience and deepening my understanding of Web3. During this time, I authored a book and several award-winning articles.
+Having missed the opportunity to participate in the early days of the internet due to my age, I see Web3 as a second chance to be at the forefront of a technological revolution. With over a year and a half of full-time experience in the Web3 space (and investments dating back to 2017), I'm committed to advancing its mission and potential.
 
-Then I went to college and ended up completing a PhD in Applied Physics from Cornell with a Minor in Computer Science.
+In my spare time, I enjoy solving puzzles, reading to expand my knowledge, and taking long walks. Recent books I've read include:
 
-I started my career in Research and Development, moved to Tech (the good 'ol Web2) for a while working as a full-stack engineer, and then worked as a Quant in finance. After that, I took on a lot of responsibility by creating and leading the Research division at Advanced Blockchain as Head of Research. This was a more hands-off role as it relates to development, but it was fantastic in terms of getting experience leading and also learning about the Web3 space overall and its design decisions. I wrote a book during this time and also multiple award-winning articles.
+'Security Tokens and Stablecoins Quick Start Guide'
+'The Metaverse: And How it Will Revolutionize Everything'
+'Algorithms to Live By: The Computer Science of Human Decisions'
+'The First 90 Days'
+'Options as a Strategic Investment'
+'Option Volatility and Pricing'
+'The Historical Atlas of New York City'
 
-I always felt a bit like I had missed the opportunity to participate in the early Internet days because I was too young. I wish I would have that opportunity again with something similar, maybe even bigger. Enter Web3... I am deeply bullish on Web3 and I want to be a strong part in helping advanced its mission. I want to help build and expand this new revolution.
-
-That's why I am extremely passionate about building and developing in this space.
-
-I have worked full-time in the Web3 space for over a year and a half (I invested into crypto back in 2017) and am a strong believer in its capabilities. I am an ecosystem maxi.
-
-In my spare time, my mind likes to think about puzzles and solve problems, so I read to learn new things, and take long walks.
-
-📖 Some recent books I read (in no particular order):
-
- - Security Tokens and Stablecoins Quick Start Guide: Learn how to build STO and stablecoin decentralized applications
- 
- - The Metaverse: And How it Will Revolutionize Everything
- 
- - Algorithms to Live By: The Computer Science of Human Decisions
- 
- - The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded
-
- - Options as a Strategic Investment: Fifth Edition
- 
- - Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition
- 
- - The Historical Atlas of New York City, Third Edition: A Visual Celebration of 400 Years of New York City's History
-
-and more.
+My journey from a computer-obsessed youth to a Web3 enthusiast and professional exemplifies my enduring passion for technology and its potential to reshape our world.
 
 👀 I’m looking to collaborate on projects in Web3, DeFi, and FinTech.
 
