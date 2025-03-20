@@ -54,8 +54,6 @@ My journey from a computer-obsessed youth to a Web3 enthusiast and professional 
 
 👀 I’m looking to collaborate on projects in Web3, DeFi, and FinTech.
 
-📫 jespertoftkristensen ( at ) gmail ( dot ) com
-
 🖊 <a href="https://defibooks.org/">I write books on DeFi. Currently I have material on AMMs and Perpetual Derivatives - cornerstones of DeFi</a>.
 
 ---
